@@ -1,0 +1,1 @@
+Projeto one-page de uma agência ficticia ultilizando HTML e CSS puro
